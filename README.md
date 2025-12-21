@@ -6,7 +6,7 @@
 
 
 
-## 📫 Contact Me
+## 📞 Contact Me
 - Email: ctemesgen85@gmail.com
 
 
