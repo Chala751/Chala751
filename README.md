@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student at ASTU  
 💻 Full-Stack Developer  
-🌐 Passionate about Web & Mobile App Development  
+Passionate about Web & Mobile App Development  
 
 
 
