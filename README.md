@@ -1,10 +1,10 @@
-# Hi 👋 I'm Chala Temesgen
+#                                                   Hi 👋 I'm Chala Temesgen
 
 Software Engineering student at ASTU  
 Full-Stack Developer  
 Passionate about Web & Mobile App Development  
 
-##  Tech Stack
+##                                                     Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,typescript,python,javascript,fastapi,mongodb,postgresql,git)](https://skillicons.dev)
 
